@@ -7,5 +7,13 @@ div {
   margin: auto;
   border: 3px solid blue;
   padding: 10px;
+  width: 30%;
   display: block;
+  background-color: lightgray;
+}
+#beef {
+  float: left;
+}
+#sushi {
+  float: right;
 }
