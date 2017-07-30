@@ -20,12 +20,14 @@ div {
 
 #chicken-div {
   float: left;
+  margin-right: 10px;
 }
 #beef-div {
   float: left;
+  margin-right: 10px;
 }
 #sushi-div {
-  float: right;
+  float: left;
 }
 
 #chicken{
