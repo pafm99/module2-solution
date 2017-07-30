@@ -3,3 +3,9 @@ h1 {
   text-align: center;
   margin-bottom: 35px;
 }
+div {
+  margin: auto;
+  border: 3px solid blue;
+  padding: 10px;
+  display: block;
+}
