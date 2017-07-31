@@ -24,20 +24,30 @@ body {
 }
 
 #chicken {
+  width: 100px;
+  text-align: center;
   background-color: pink;
-  float: right;
   border: 1px solid black;
   position: absolute;
-  top: 0px;
-  right: 0px;
+  top: 0;
+  right: 0;
+  display: inline-block-;
 }
 #beef {
+  width: 100px;
+  text-align: center;
   background-color: red;
-  float: right;
   border: 1px solid black;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 #sushi {
+  width: 100px;
+  text-align: center;
   background-color: yellow;
-  float: right;
   border: 1px solid black;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
